@@ -36,10 +36,9 @@ To apply custom styles to your Notification Center & Control Center:
 
 1. Open **Windhawk**.
 2. Go to the **Explore** tab, search for **Windows 11 Notification Center Styler**, and click **Details**.
-3. Go to the **Advanced** tab -> **Settings**.
-4. ⚠️ **Important Step**: Delete/remove any existing code inside the text box first.
-5. Copy the code from [`notification_center_styler.json`](./notification_center_styler.json) and paste it into the box.
-6. Click **Save Settings** to apply.
+3. Go to the **Advanced** tab -> **Mod settings**.
+4. Replace any existing code inside the text box with the code from [`notification_center_styler.json`](./notification_center_styler.json).
+5. Click **Save Settings** to apply.
 
 ---
 
@@ -50,10 +49,9 @@ To apply custom styles to your Start Menu:
 
 1. Open **Windhawk**.
 2. Go to the **Explore** tab, search for **Windows 11 Start Menu Styler**, and click **Details**.
-3. Go to the **Advanced** tab -> **Settings**.
-4. ⚠️ **Important Step**: Delete/remove any existing code inside the text box first.
-5. Copy the code from [`start_menu_styler.json`](./start_menu_styler.json) and paste it into the box.
-6. Click **Save Settings** to apply.
+3. Go to the **Advanced** tab -> **Mod settings**.
+4. Replace any existing code inside the text box with the code from [`start_menu_styler.json`](./start_menu_styler.json).
+5. Click **Save Settings** to apply.
 
 ---
 
