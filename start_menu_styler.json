@@ -1,0 +1,23 @@
+{
+  "controlStyles[0].target": "Border#AcrylicBorder",
+  "controlStyles[0].styles[0]": "Background:=$GlassBG",
+  "controlStyles[0].styles[1]": "BorderThickness=1",
+  "controlStyles[0].styles[2]": "BorderBrush:=$GlassBorder",
+  "controlStyles[0].styles[3]": "CornerRadius=20",
+  "controlStyles[1].target": "Border#AcrylicOverlay",
+  "controlStyles[1].styles[0]": "Visibility=Collapsed",
+  "controlStyles[2].target": "Border#AppBorder",
+  "controlStyles[2].styles[0]": "Background:=$GlassBG",
+  "controlStyles[2].styles[1]": "BorderThickness=1",
+  "controlStyles[2].styles[2]": "BorderBrush:=$GlassBorder",
+  "controlStyles[2].styles[3]": "CornerRadius=20",
+  "controlStyles[3].target": "MenuFlyoutPresenter > Border",
+  "controlStyles[3].styles[0]": "Background:=$GlassBG",
+  "controlStyles[3].styles[1]": "BorderThickness=1",
+  "controlStyles[3].styles[2]": "BorderBrush:=$GlassBorder",
+  "controlStyles[3].styles[3]": "CornerRadius=12",
+  "controlStyles[4].target": "StartDocked.AppListViewItem > Grid > Border#BackgroundBorder",
+  "controlStyles[4].styles[0]": "CornerRadius=10",
+  "styleConstants[0]": "GlassBG=<WindhawkBlur BlurAmount=\"25\" TintColor=\"#20FFFFFF\"/>",
+  "styleConstants[1]": "GlassBorder=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#40FFFFFF\" Offset=\"0.0\"/><GradientStop Color=\"#10FFFFFF\" Offset=\"0.5\"/><GradientStop Color=\"#25FFFFFF\" Offset=\"1.0\"/></LinearGradientBrush>"
+}
