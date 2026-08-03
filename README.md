@@ -4,6 +4,8 @@ A curated set of styling configurations for Windows 11 to give your **Start Menu
 
 This pack uses **Windhawk** and **TranslucentTB** to deliver a premium look with minimal system resource usage.
 
+![Universal Theme Preview](./assets/preview_all.png)
+
 ---
 
 ## 🛠️ Prerequisites & Installation
@@ -30,6 +32,8 @@ Follow the quick steps below for each mod you want to enable.
 ### 🔹 1. Windows 11 Notification Center Styler
 To apply custom styles to your Notification Center & Control Center:
 
+![Notification Center Preview](./assets/preview_notification_center.jpg)
+
 1. Open **Windhawk**.
 2. Go to the **Explore** tab, search for **Windows 11 Notification Center Styler**, and click **Details**.
 3. Go to the **Advanced** tab -> **Settings**.
@@ -41,6 +45,8 @@ To apply custom styles to your Notification Center & Control Center:
 
 ### 🔹 2. Windows 11 Start Menu Styler
 To apply custom styles to your Start Menu:
+
+![Start Menu Preview](./assets/preview_start_menu.png)
 
 1. Open **Windhawk**.
 2. Go to the **Explore** tab, search for **Windows 11 Start Menu Styler**, and click **Details**.
@@ -66,6 +72,7 @@ You can easily customize these styles to match your personal setup! Simply:
 ## 📂 Repository Contents
 - [`notification_center_styler.json`](./notification_center_styler.json) - Notification Center & Control Center styling configuration.
 - [`start_menu_styler.json`](./start_menu_styler.json) - Start Menu styling configuration.
+- [`assets/`](./assets/) - Preview screenshots and image assets.
 
 ---
 
